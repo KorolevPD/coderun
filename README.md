@@ -9,3 +9,4 @@
 | 3. | [Длина кратчайшего пути](https://coderun.yandex.ru/problem/shortest-path-length) | [shortest-path-length.py](problems/shortest-path-length.py) |
 | 4. | [Блохи](https://coderun.yandex.ru/problem/fleas) | [fleas.py](problems/fleas.py) |
 | 5. | [Путь спелеолога](https://coderun.yandex.ru/problem/speleologist-way) | [speleologist-way.py](problems/speleologist-way.py) |
+| 6. | [НВП с восстановлением ответа](https://coderun.yandex.ru/problem/nvp-with-response-recovery) | [nvp-with-response-recovery.py](problems/nvp-with-response-recovery.py) |
