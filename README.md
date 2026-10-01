@@ -12,3 +12,4 @@
 | 6. | [НВП с восстановлением ответа](https://coderun.yandex.ru/problem/nvp-with-response-recovery) | [nvp-with-response-recovery.py](problems/nvp-with-response-recovery.py) |
 | 7. | [Номер появления слова](https://coderun.yandex.ru/problem/word-appearance-number) | [word-appearance-number.py](problems/word-appearance-number.py) |
 | 8. | [Словарь синонимов](https://coderun.yandex.ru/problem/dictionary-synonyms) | [dictionary-synonyms.py](problems/dictionary-synonyms.py) |
+| 9. | [Сапёр](https://coderun.yandex.ru/problem/sapper) | [sapper.py](problems/sapper.py) |
