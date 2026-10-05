@@ -14,3 +14,4 @@
 | 8. | [Словарь синонимов](https://coderun.yandex.ru/problem/dictionary-synonyms) | [dictionary-synonyms.py](problems/dictionary-synonyms.py) |
 | 9. | [Сапёр](https://coderun.yandex.ru/problem/sapper) | [sapper.py](problems/sapper.py) |
 | 10. | [OpenCalculator](https://coderun.yandex.ru/problem/open-calculator) | [open-calculator.py](problems/open-calculator.py) |
+| 11. | [Полиглоты](https://coderun.yandex.ru/problem/polyglots) | [polyglots.py](problems/polyglots.py) |
