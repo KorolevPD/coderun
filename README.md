@@ -15,3 +15,4 @@
 | 9. | [Сапёр](https://coderun.yandex.ru/problem/sapper) | [sapper.py](problems/sapper.py) |
 | 10. | [OpenCalculator](https://coderun.yandex.ru/problem/open-calculator) | [open-calculator.py](problems/open-calculator.py) |
 | 11. | [Полиглоты](https://coderun.yandex.ru/problem/polyglots) | [polyglots.py](problems/polyglots.py) |
+| 12. | [Клавиатура](https://coderun.yandex.ru/problem/keyboard) | [keyboard.py](problems/keyboard.py) |
