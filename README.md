@@ -18,3 +18,4 @@
 | 12. | [Клавиатура](https://coderun.yandex.ru/problem/keyboard) | [keyboard.py](problems/keyboard.py) |
 | 13. | [Кондиционер](https://coderun.yandex.ru/problem/conditioner) | [conditioner.py](problems/conditioner.py) |
 | 14. | [Треугольник](https://coderun.yandex.ru/problem/triangle) | [triangle.py](problems/triangle.py) |
+| 15. | [Инопланетный геном](https://coderun.yandex.ru/problem/alien-genome) | [alien-genome.py](problems/alien-genome.py) |
