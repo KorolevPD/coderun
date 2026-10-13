@@ -19,3 +19,4 @@
 | 13. | [Кондиционер](https://coderun.yandex.ru/problem/conditioner) | [conditioner.py](problems/conditioner.py) |
 | 14. | [Треугольник](https://coderun.yandex.ru/problem/triangle) | [triangle.py](problems/triangle.py) |
 | 15. | [Инопланетный геном](https://coderun.yandex.ru/problem/alien-genome) | [alien-genome.py](problems/alien-genome.py) |
+| 16. | [Больше своих соседей](https://coderun.yandex.ru/problem/more-your-neighbors) | [more-your-neighbors.py](problems/more-your-neighbors.py) |
