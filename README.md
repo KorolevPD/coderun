@@ -20,3 +20,4 @@
 | 14. | [Треугольник](https://coderun.yandex.ru/problem/triangle) | [triangle.py](problems/triangle.py) |
 | 15. | [Инопланетный геном](https://coderun.yandex.ru/problem/alien-genome) | [alien-genome.py](problems/alien-genome.py) |
 | 16. | [Больше своих соседей](https://coderun.yandex.ru/problem/more-your-neighbors) | [more-your-neighbors.py](problems/more-your-neighbors.py) |
+| 17. | [Вывести маршрут максимальной стоимости](https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost) | [print-the-route-of-the-maximum-cost.py](problems/print-the-route-of-the-maximum-cost.py) |
