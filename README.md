@@ -21,3 +21,4 @@
 | 15. | [Инопланетный геном](https://coderun.yandex.ru/problem/alien-genome) | [alien-genome.py](problems/alien-genome.py) |
 | 16. | [Больше своих соседей](https://coderun.yandex.ru/problem/more-your-neighbors) | [more-your-neighbors.py](problems/more-your-neighbors.py) |
 | 17. | [Вывести маршрут максимальной стоимости](https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost) | [print-the-route-of-the-maximum-cost.py](problems/print-the-route-of-the-maximum-cost.py) |
+| 18. | [Коммерческий калькулятор](https://coderun.yandex.ru/problem/commercial-calculator) | [commercial-calculator.py](problems/commercial-calculator.py) |
