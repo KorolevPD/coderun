@@ -23,3 +23,4 @@
 | 17. | [Вывести маршрут максимальной стоимости](https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost) | [print-the-route-of-the-maximum-cost.py](problems/print-the-route-of-the-maximum-cost.py) |
 | 18. | [Коммерческий калькулятор](https://coderun.yandex.ru/problem/commercial-calculator) | [commercial-calculator.py](problems/commercial-calculator.py) |
 | 19. | [Расстояние по Левенштейну](https://coderun.yandex.ru/problem/levenstein-distance) | [levenstein-distance.py](problems/levenstein-distance.py) |
+| 20. | [Количество треугольников](https://coderun.yandex.ru/problem/number-of-triangles) | [number-of-triangles.py](problems/number-of-triangles.py) |
