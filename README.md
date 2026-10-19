@@ -24,3 +24,4 @@
 | 18. | [Коммерческий калькулятор](https://coderun.yandex.ru/problem/commercial-calculator) | [commercial-calculator.py](problems/commercial-calculator.py) |
 | 19. | [Расстояние по Левенштейну](https://coderun.yandex.ru/problem/levenstein-distance) | [levenstein-distance.py](problems/levenstein-distance.py) |
 | 20. | [Количество треугольников](https://coderun.yandex.ru/problem/number-of-triangles) | [number-of-triangles.py](problems/number-of-triangles.py) |
+| 21. | [Распил брусьев](https://coderun.yandex.ru/problem/cutting-of-bars) | [cutting-of-bars.py](problems/cutting-of-bars.py) |
