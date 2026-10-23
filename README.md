@@ -25,3 +25,4 @@
 | 19. | [Расстояние по Левенштейну](https://coderun.yandex.ru/problem/levenstein-distance) | [levenstein-distance.py](problems/levenstein-distance.py) |
 | 20. | [Количество треугольников](https://coderun.yandex.ru/problem/number-of-triangles) | [number-of-triangles.py](problems/number-of-triangles.py) |
 | 21. | [Распил брусьев](https://coderun.yandex.ru/problem/cutting-of-bars) | [cutting-of-bars.py](problems/cutting-of-bars.py) |
+| 22. | [Покупка билетов](https://coderun.yandex.ru/problem/buying-tickets) | [buying-tickets.py](problems/buying-tickets.py) |
