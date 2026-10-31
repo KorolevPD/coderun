@@ -29,3 +29,4 @@
 | 23. | [Площадь комнаты](https://coderun.yandex.ru/problem/room-area) | [room-area.py](problems/room-area.py) |
 | 24. | [Откуда достижима первая вершина](https://coderun.yandex.ru/problem/first-vertex) | [first-vertex.py](problems/first-vertex.py) |
 | 25. | [Два коня](https://coderun.yandex.ru/problem/two-horses) | [two-horses.py](problems/two-horses.py) |
+| 26. | [Числа](https://coderun.yandex.ru/problem/numbers) | [numbers.py](problems/numbers.py) |
