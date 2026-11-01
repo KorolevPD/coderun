@@ -30,3 +30,4 @@
 | 24. | [Откуда достижима первая вершина](https://coderun.yandex.ru/problem/first-vertex) | [first-vertex.py](problems/first-vertex.py) |
 | 25. | [Два коня](https://coderun.yandex.ru/problem/two-horses) | [two-horses.py](problems/two-horses.py) |
 | 26. | [Числа](https://coderun.yandex.ru/problem/numbers) | [numbers.py](problems/numbers.py) |
+| 27. | [Игрушечный лабиринт](https://coderun.yandex.ru/problem/toy-maze) | [toy-maze.py](problems/toy-maze.py) |
