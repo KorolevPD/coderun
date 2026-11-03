@@ -32,3 +32,4 @@
 | 26. | [Числа](https://coderun.yandex.ru/problem/numbers) | [numbers.py](problems/numbers.py) |
 | 27. | [Игрушечный лабиринт](https://coderun.yandex.ru/problem/toy-maze) | [toy-maze.py](problems/toy-maze.py) |
 | 28. | [Телефонные номера](https://coderun.yandex.ru/problem/phone-numbers) | [phone-numbers.py](problems/phone-numbers.py) |
+| 29. | [Метро](https://coderun.yandex.ru/problem/metro) | [metro.py](problems/metro.py) |
