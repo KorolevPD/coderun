@@ -34,3 +34,4 @@
 | 28. | [Телефонные номера](https://coderun.yandex.ru/problem/phone-numbers) | [phone-numbers.py](problems/phone-numbers.py) |
 | 29. | [Метро](https://coderun.yandex.ru/problem/metro) | [metro.py](problems/metro.py) |
 | 30. | [Узник замка Иф](https://coderun.yandex.ru/problem/castle-if) | [castle-if.py](problems/castle-if.py) |
+| 31. | [Определить вид последовательности](https://coderun.yandex.ru/problem/determine-type-sequence) | [determine-type-sequence.py](problems/determine-type-sequence.py) |
