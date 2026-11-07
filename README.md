@@ -35,3 +35,4 @@
 | 29. | [Метро](https://coderun.yandex.ru/problem/metro) | [metro.py](problems/metro.py) |
 | 30. | [Узник замка Иф](https://coderun.yandex.ru/problem/castle-if) | [castle-if.py](problems/castle-if.py) |
 | 31. | [Определить вид последовательности](https://coderun.yandex.ru/problem/determine-type-sequence) | [determine-type-sequence.py](problems/determine-type-sequence.py) |
+| 32. | [Количество различных чисел](https://coderun.yandex.ru/problem/number-different-numbers) | [number-different-numbers.py](problems/number-different-numbers.py) |
