@@ -37,3 +37,4 @@
 | 31. | [Определить вид последовательности](https://coderun.yandex.ru/problem/determine-type-sequence) | [determine-type-sequence.py](problems/determine-type-sequence.py) |
 | 32. | [Количество различных чисел](https://coderun.yandex.ru/problem/number-different-numbers) | [number-different-numbers.py](problems/number-different-numbers.py) |
 | 33. | [Пересечение множеств](https://coderun.yandex.ru/problem/intersection-sets) | [intersection-sets.py](problems/intersection-sets.py) |
+| 34. | [Пирамида](https://coderun.yandex.ru/problem/pyramid) | [pyramid.py](problems/pyramid.py) |
