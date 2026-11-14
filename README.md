@@ -40,3 +40,4 @@
 | 34. | [Пирамида](https://coderun.yandex.ru/problem/pyramid) | [pyramid.py](problems/pyramid.py) |
 | 35. | [Банковские счета](https://coderun.yandex.ru/problem/bank-accounts) | [bank-accounts.py](problems/bank-accounts.py) |
 | 36. | [Сумма номеров](https://coderun.yandex.ru/problem/sum-of-numbers) | [sum-of-numbers.py](problems/sum-of-numbers.py) |
+| 37. | [Подстрока](https://coderun.yandex.ru/problem/substring) | [substring.py](problems/substring.py) |
