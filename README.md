@@ -42,3 +42,4 @@
 | 36. | [Сумма номеров](https://coderun.yandex.ru/problem/sum-of-numbers) | [sum-of-numbers.py](problems/sum-of-numbers.py) |
 | 37. | [Подстрока](https://coderun.yandex.ru/problem/substring) | [substring.py](problems/substring.py) |
 | 38. | [Приближенный двоичный поиск](https://coderun.yandex.ru/problem/bpproximate-binary-search) | [bpproximate-binary-search.py](problems/bpproximate-binary-search.py) |
+| 39. | [Субботник](https://coderun.yandex.ru/problem/cleaning-day) | [cleaning-day.py](problems/cleaning-day.py) |
