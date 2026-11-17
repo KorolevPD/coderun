@@ -43,3 +43,4 @@
 | 37. | [Подстрока](https://coderun.yandex.ru/problem/substring) | [substring.py](problems/substring.py) |
 | 38. | [Приближенный двоичный поиск](https://coderun.yandex.ru/problem/bpproximate-binary-search) | [bpproximate-binary-search.py](problems/bpproximate-binary-search.py) |
 | 39. | [Субботник](https://coderun.yandex.ru/problem/cleaning-day) | [cleaning-day.py](problems/cleaning-day.py) |
+| 40. | [Медиана объединения](https://coderun.yandex.ru/problem/median-union) | [median-union.py](problems/median-union.py) |
