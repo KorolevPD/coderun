@@ -45,3 +45,4 @@
 | 39. | [Субботник](https://coderun.yandex.ru/problem/cleaning-day) | [cleaning-day.py](problems/cleaning-day.py) |
 | 40. | [Медиана объединения](https://coderun.yandex.ru/problem/median-union) | [median-union.py](problems/median-union.py) |
 | 41. | [Кассы](https://coderun.yandex.ru/problem/cash-registers) | [cash-registers.py](problems/cash-registers.py) |
+| 42. | [Высота дерева](https://coderun.yandex.ru/problem/tree-height) | [tree-height.py](problems/tree-height.py) |
