@@ -46,3 +46,4 @@
 | 40. | [Медиана объединения](https://coderun.yandex.ru/problem/median-union) | [median-union.py](problems/median-union.py) |
 | 41. | [Кассы](https://coderun.yandex.ru/problem/cash-registers) | [cash-registers.py](problems/cash-registers.py) |
 | 42. | [Высота дерева](https://coderun.yandex.ru/problem/tree-height) | [tree-height.py](problems/tree-height.py) |
+| 43. | [Глубина добавляемых элементов](https://coderun.yandex.ru/problem/depth-added-elements) | [depth-added-elements.py](problems/depth-added-elements.py) |
