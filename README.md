@@ -48,3 +48,4 @@
 | 42. | [Высота дерева](https://coderun.yandex.ru/problem/tree-height) | [tree-height.py](problems/tree-height.py) |
 | 43. | [Глубина добавляемых элементов](https://coderun.yandex.ru/problem/depth-added-elements) | [depth-added-elements.py](problems/depth-added-elements.py) |
 | 44. | [Вывод развилок](https://coderun.yandex.ru/problem/fork-conclusion) | [fork-conclusion.py](problems/fork-conclusion.py) |
+| 45. | [Вывод веток](https://coderun.yandex.ru/problem/branches-conclusion) | [branches-conclusion.py](problems/branches-conclusion.py) |
