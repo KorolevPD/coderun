@@ -50,3 +50,4 @@
 | 44. | [Вывод развилок](https://coderun.yandex.ru/problem/fork-conclusion) | [fork-conclusion.py](problems/fork-conclusion.py) |
 | 45. | [Вывод веток](https://coderun.yandex.ru/problem/branches-conclusion) | [branches-conclusion.py](problems/branches-conclusion.py) |
 | 46. | [АВЛ-сбалансированность](https://coderun.yandex.ru/problem/avl-balance) | [avl-balance.py](problems/avl-balance.py) |
+| 47. | [Родословная: число потомков](https://coderun.yandex.ru/problem/pedigree-number-of-descendants) | [pedigree-number-of-descendants.py](problems/pedigree-number-of-descendants.py) |
