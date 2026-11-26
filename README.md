@@ -52,3 +52,4 @@
 | 46. | [АВЛ-сбалансированность](https://coderun.yandex.ru/problem/avl-balance) | [avl-balance.py](problems/avl-balance.py) |
 | 47. | [Родословная: число потомков](https://coderun.yandex.ru/problem/pedigree-number-of-descendants) | [pedigree-number-of-descendants.py](problems/pedigree-number-of-descendants.py) |
 | 48. | [Гистограмма](https://coderun.yandex.ru/problem/histogram) | [histogram.py](problems/histogram.py) |
+| 49. | [Хорошая строка](https://coderun.yandex.ru/problem/good-line) | [good-line.py](problems/good-line.py) |
