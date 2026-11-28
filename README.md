@@ -54,3 +54,4 @@
 | 48. | [Гистограмма](https://coderun.yandex.ru/problem/histogram) | [histogram.py](problems/histogram.py) |
 | 49. | [Хорошая строка](https://coderun.yandex.ru/problem/good-line) | [good-line.py](problems/good-line.py) |
 | 50. | [Сумма в прямоугольнике](https://coderun.yandex.ru/problem/rectangle-sum) | [rectangle-sum.py](problems/rectangle-sum.py) |
+| 51. | [Скучная лекция](https://coderun.yandex.ru/problem/boring-lecture) | [boring-lecture.py](problems/boring-lecture.py) |
